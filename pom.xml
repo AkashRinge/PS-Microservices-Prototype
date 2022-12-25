@@ -7,7 +7,8 @@
   <name>PS Microservices</name>
   <packaging>pom</packaging>
   <modules>
-  <module>position-services</module>
-  <module>security-services</module>
+	  <module>position-services</module>
+	  <module>security-services</module>
+	  <module>ps-microservices-grpc</module>
   </modules>
 </project>
